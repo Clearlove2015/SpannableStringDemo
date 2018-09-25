@@ -10,7 +10,7 @@ import android.text.style.ImageSpan;
 /**
  * @author: zc
  * @Time: 2018/9/25 15:12
- * @Desc:
+ * @Desc: https://www.jianshu.com/p/add321678859
  */
 public class CenterAlignImageSpan extends ImageSpan {
     public CenterAlignImageSpan(Drawable drawable) {
